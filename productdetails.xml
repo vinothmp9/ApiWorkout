@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productDetails>
+	<productName>mobile</productName>
+	<quantity>1</quantity>
+	<price>1200</price>
+	<orderId>abd111c</orderId>
+	<deliveryAddress>
+		<streetName>east street</streetName>
+		<city>melur</city>
+		<district>madurai</district>
+		<state>TN</state>
+		<country>India</country>
+		<contactDetails>
+			<emailId>vinothpandian@gmail.com</emailId>
+			<phoneNumber>
+				<mobileNO>6380825836</mobileNO>
+				<landline>0446380835836</landline>
+			</phoneNumber>
+		</contactDetails>
+	</deliveryAddress>
+</productDetails>
